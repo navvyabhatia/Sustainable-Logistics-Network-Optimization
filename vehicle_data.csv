@@ -1,0 +1,11 @@
+vehicle_type,capacity_packages,purchase_cost,lifespan_years,maintenance_cost_annual,fuel_type,fuel_efficiency,co2_emissions_kg_per_km,operating_cost_per_km,max_range_km,charging_time_mins,availability_constraints
+Cargo Van - Conventional,120,35000,7,4200,Diesel,12,0.28,0.32,650,0,None
+Cargo Van - Hybrid,110,42000,8,3900,Hybrid,18,0.18,0.25,750,0,None
+Cargo Van - Electric,100,58000,9,3200,Electric,0,0.05,0.18,280,45,Charging Infrastructure
+Delivery Truck - Small,250,48000,8,5100,Diesel,9,0.36,0.38,580,0,Weight Restrictions
+Delivery Truck - Medium,400,65000,10,6800,Diesel,7,0.42,0.45,620,0,Urban Access Restrictions
+Delivery Truck - Electric,350,89000,12,5900,Electric,0,0.08,0.22,250,60,Charging Infrastructure
+Electric Cargo Bike,15,8500,5,1200,Electric,0,0.01,0.08,80,30,Weather Sensitive
+Cargo Scooter - Electric,25,12000,6,1800,Electric,0,0.02,0.10,100,25,Weather Sensitive
+Autonomous Delivery Robot,8,18000,4,4500,Electric,0,0.01,0.12,40,20,Infrastructure Dependent
+Drone - Small Payload,2,6500,3,3800,Electric,0,0.01,0.15,25,15,Weather & Regulation Restricted

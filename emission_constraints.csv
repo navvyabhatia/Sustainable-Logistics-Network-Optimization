@@ -1,0 +1,31 @@
+zone_id,district,emission_cap_kg_per_day,noise_restriction_level,low_emission_zone,congestion_charge,time_restrictions,sustainability_incentive,pedestrian_priority,urban_density_factor
+Z001,Downtown,120,High,Yes,5.0,20:00-07:00,3.0,High,0.95
+Z002,Downtown,120,High,Yes,5.0,20:00-07:00,3.0,High,0.92
+Z003,Downtown,120,High,Yes,5.0,20:00-07:00,3.0,High,0.90
+Z004,East Side,180,Medium,Yes,2.5,22:00-06:00,2.0,Medium,0.85
+Z005,East Side,180,Medium,Yes,2.5,22:00-06:00,2.0,Medium,0.82
+Z006,East Side,180,Medium,Yes,2.5,22:00-06:00,2.0,Medium,0.80
+Z007,West Side,150,Medium,Yes,3.5,21:00-06:00,2.5,Medium,0.83
+Z008,West Side,150,Medium,Yes,3.5,21:00-06:00,2.5,Medium,0.81
+Z009,West Side,150,Medium,Yes,3.5,21:00-06:00,2.5,Medium,0.79
+Z010,South District,200,Low,No,0.0,23:00-05:00,1.0,Low,0.68
+Z011,South District,200,Low,No,0.0,23:00-05:00,1.0,Low,0.65
+Z012,South District,200,Low,No,0.0,23:00-05:00,1.0,Low,0.62
+Z013,North District,170,Medium,Yes,2.0,22:00-06:00,2.2,Medium,0.76
+Z014,North District,170,Medium,Yes,2.0,22:00-06:00,2.2,Medium,0.73
+Z015,North District,170,Medium,Yes,2.0,22:00-06:00,2.2,Medium,0.70
+Z016,East Side,180,Medium,Yes,2.5,22:00-06:00,2.0,Medium,0.78
+Z017,West Side,150,Medium,Yes,3.5,21:00-06:00,2.5,Medium,0.77
+Z018,South District,200,Low,No,0.0,23:00-05:00,1.0,Low,0.60
+Z019,North District,170,Medium,Yes,2.0,22:00-06:00,2.2,Medium,0.69
+Z020,Central,130,High,Yes,4.5,20:00-07:00,2.8,High,0.88
+Z021,East Side,180,Medium,Yes,2.5,22:00-06:00,2.0,Medium,0.75
+Z022,North District,170,Medium,Yes,2.0,22:00-06:00,2.2,Medium,0.67
+Z023,South District,200,Low,No,0.0,23:00-05:00,1.0,Low,0.58
+Z024,West Side,150,Medium,Yes,3.5,21:00-06:00,2.5,Medium,0.74
+Z025,Central,130,High,Yes,4.5,20:00-07:00,2.8,High,0.86
+Z026,Central,130,High,Yes,4.5,20:00-07:00,2.8,High,0.87
+Z027,East Side,180,Medium,Yes,2.5,22:00-06:00,2.0,Medium,0.76
+Z028,West Side,150,Medium,Yes,3.5,21:00-06:00,2.5,Medium,0.72
+Z029,South District,200,Low,No,0.0,23:00-05:00,1.0,Low,0.59
+Z030,North District,170,Medium,Yes,2.0,22:00-06:00,2.2,Medium,0.66
