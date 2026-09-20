@@ -41,17 +41,30 @@ Since the original distance file contained only 50 sample routes, the project ge
 - scikit-learn
 
 # Repository Structure
+```text
 greencity-logistics-optimization/
+│
 ├── README.md
-├── capstone_project_2_final.ipynb
-├── capstone_project_2_final.pdf
-├── Capstone Predictive Analysis Presentation.pptx
-└── data/
-    ├── location_data.csv
-    ├── demand_data.csv
-    ├── vehicle_data.csv
-    ├── distance_matrix_SAMPLE_50routes.csv
-    └── emission_constraints.csv
+│
+├── notebooks/
+│   └── capstone-project-2-final.ipynb
+│
+├── reports/
+│   └── capstone-project-2-final.pdf
+│
+├── presentation/
+│   └── capstone-predictive-analysis-presentation.pptx
+│
+├── data/
+│   ├── raw/
+│   │   ├── location_data.csv
+│   │   ├── demand_data.csv
+│   │   ├── vehicle_data.csv
+│   │   └── emission_constraints.csv
+│   │
+│   └── sample/
+│       └── distance_matrix_sample_50routes.csv
+```
 
 # Business Constraints
 1. Assign every customer zone to exactly one fulfillment center.
