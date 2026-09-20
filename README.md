@@ -1,4 +1,6 @@
 # Sustainable-Logistics-Network-Optimization
+By: Natalie Avina, Navya Bhatia, Joane Sarfati, Mrudhvika Sirineni, and Mya Stewart
+
 Optimized GreenCity Logistics’ urban delivery network using MIP and Goal Programming models. Selected 5 fulfillment centers to serve 30 customer zones with an all-electric fleet while balancing costs, emissions, and service constraints. Sensitivity and scenario analyses confirmed a resilient design across fuel, capacity, and sustainability changes.
 
 # Project Objective
